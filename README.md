@@ -1,6 +1,6 @@
 # uc-eecs-resources
 Resources and information for EECS students at the University of Cincinnati
 
-| Attempt | #1  | #2  |
+| What | Where  | How  |
 | :---:   | :-: | :-: |
 | Seconds | 301 | 283 |
