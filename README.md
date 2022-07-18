@@ -1,7 +1,7 @@
 # uc-eecs-resources
 Resources and information for EECS students at the University of Cincinnati
 
-Conferences & Events
+###Conferences & Events
 
 | What | Where  | How  |
 | :---:   | :-: | :-: |
@@ -11,7 +11,7 @@ Conferences & Events
 | Cornell University SoNIC Summer Workshop | https://diversity.cis.cornell.edu/programs/sonic/ | Great for freshman looking for something to do in their free summer! |
 
 
-Other Resources
+###Other Resources
 | What | Where  | How  |
 | :---:   | :-: | :-: |
 | Mantei/Mae Funding | https://manteimaeawards.com/shared-experience-application-form | Mantei/Mae is a scholarship for high performing EECS majors. They also provide funding to ANY EECS student interested in going to conferences, funding for competitions, etc. |
