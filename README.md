@@ -15,4 +15,5 @@ Resources and information for EECS students at the University of Cincinnati
 | What | Where  | How  |
 | :---:   | :-: | :-: |
 | Mantei/Mae Funding | https://manteimaeawards.com/shared-experience-application-form | Mantei/Mae is a scholarship for high performing EECS majors. They also provide funding to ANY EECS student interested in going to conferences, funding for competitions, etc. |
+| Jobscan | https://www.jobscan.co | Use to make sure resume is compatible with ATS resume readers |
 ||||
