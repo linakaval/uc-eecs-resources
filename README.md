@@ -22,7 +22,7 @@ Resources and information for EECS students at the University of Cincinnati
 
 ### Relevant UC Tech Orgs
 | Name | Info |
-| :--: | :-:  |
+| :---: | :-------:  |
 | ACM@UC | https://acmatuc.org |
 | ACM-W@UC | https://acmwuc.org |
 | WIT | https://www.instagram.com/ucwomenintech/ |
