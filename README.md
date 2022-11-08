@@ -17,3 +17,17 @@ Resources and information for EECS students at the University of Cincinnati
 | Mantei/Mae Funding | https://manteimaeawards.com/shared-experience-application-form | Mantei/Mae is a scholarship for high performing EECS majors. They also provide funding to ANY EECS student interested in going to conferences, funding for competitions, etc. |
 | Jobscan | https://www.jobscan.co | Use to make sure resume is compatible with ATS resume readers |
 ||||
+
+
+
+### Relevant UC Tech Orgs
+| Name | Info |
+| :--: | :-:  |
+| ACM@UC | https://acmatuc.org |
+| ACM-W@UC | https://acmwuc.org |
+| WIT | https://www.instagram.com/ucwomenintech/ |
+| ITSA | https://itsa.cech.uc.edu |
+| BANA Club | https://www.instagram.com/ucbana_club/ |
+| Cyber@UC | https://www.cyberatuc.org |
+| Bearcats Into Tech | https://www.instagram.com/bearcatsintotech/ |
+| IEEE | https://ieee.uc.edu |
