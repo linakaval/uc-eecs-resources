@@ -10,6 +10,12 @@ Resources and information for EECS students at the University of Cincinnati
 | Tapia Conference | https://tapiaconference.cmd-it.org | No org currently sponsors |
 | Cornell University SoNIC Summer Workshop | https://diversity.cis.cornell.edu/programs/sonic/ | Great for freshman looking for something to do in their free summer! |
 
+### Professional Development
+| What | Where  | How  |
+| :---:   | :-: | :-: |
+| CareerShift | https://www.careershift.com/account/login | Lets you search for employees at a compay based on their company email - good for finding recruiters or other connections |
+| Bearcat Promise Studio | https://www.uc.edu/campus-life/careereducation/career-studio.html | Get a free headshot, links to useful websites |
+
 
 ### Other Resources
 | What | Where  | How  |
